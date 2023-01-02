@@ -1,0 +1,15 @@
+This is an archive of firmware for the Qualcomm Adreno A200 GPU (also known as
+AMD Z430).
+
+Firmware found in linux-imx kernel sources, copyright 2008-2010, QUALCOMM
+Incorporated, licensed under BSD-3-Clause licence.
+https://source.codeaurora.org/external/imx/linux-imx/tree/drivers/mxc/amd-gpu/common?h=imx_2.6.35_maintain_caf
+- yamato_pfp_308308.fw
+- yamato_pm4_300684.fw
+- yamato_pm4_322696.fw
+- yamato_pm4_422468.fw
+
+Newer firmware dumps (with protection support) can be found on some devices.
+However the licensing terms are usually unclear or explicitly disallow
+redistributing, so they can not be included here. For example see
+https://github.com/AOKP/vendor_sony/tree/kitkat/blue-common/proprietary/etc/firmware
